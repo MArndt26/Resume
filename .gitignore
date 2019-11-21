@@ -1,0 +1,7 @@
+#Blacklist everything by default
+*
+
+#Whitelist the following
+!.gitignore
+!Mitchell-Arndt-Resume.docx
+!Mitchell-Arndt-Resume.pdf
