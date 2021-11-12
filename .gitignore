@@ -1,7 +1,1 @@
-#Blacklist everything by default
-*
-
-#Whitelist the following
-!.gitignore
-!Mitchell-Arndt-Resume.*
-!readme.md
+non_repo
