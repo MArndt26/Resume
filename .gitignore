@@ -1,3 +1,5 @@
 non_repo
 ~$*
 .vscode
+*.temp
+*.tmp
